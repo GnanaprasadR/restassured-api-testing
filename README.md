@@ -27,5 +27,6 @@ Open this file in your browser to view detailed test results.
 - RestAssured
 - TestNG
 
-  AUTHOR - Gnanaprasad Rajan
+**AUTHOR** 
+Gnanaprasad Rajan
   
